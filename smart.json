@@ -6,7 +6,9 @@
   "version": "0.17.0",
   "git": "https://github.com/aldeed/meteor-autoform.git",
   "packages": {
-    "simple-schema": {},
+    "simple-schema": {
+      "git":"https://git.oschina.net/laosb/meteor-simple-schema.git"
+    },
     "collection2": {},
     "moment": {}
   }
